@@ -42,6 +42,8 @@ steps:
         "--allow-unauthenticated",
         "--cpu",
         "0.5",
+        "--max-instances",
+        "10",
       ]
 
 # Log hanya akan disimpan di Google Cloud Logging
