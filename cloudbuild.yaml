@@ -41,7 +41,7 @@ steps:
         "us-central1",
         "--allow-unauthenticated",
         "--cpu",
-        "0.5",
+        "1",
         "--max-instances",
         "10",
       ]
