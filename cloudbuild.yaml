@@ -40,6 +40,8 @@ steps:
         "--region",
         "us-central1",
         "--allow-unauthenticated",
+        "--cpu",
+        "1"
       ]
 
 # Log hanya akan disimpan di Google Cloud Logging
